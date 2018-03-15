@@ -1,7 +1,10 @@
-Whole Grain Oatmeal Raisin Cookies
-==================================
+---
+layout: page
+title: Whole Grain Oatmeal Raisin Cookie Recipe
+permalink: /recipe/
+---
 
-This recipe is based on "Healthy Cook: Great Whole Grains", *Woman''s Day*, 08/05/2003, page 134.
+This recipe is based on "Healthy Cook: Great Whole Grains", *Woman's Day*, 08/05/2003, page 134.
 
 Yield: 16-17 cookies.
 

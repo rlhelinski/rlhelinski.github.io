@@ -14,13 +14,14 @@ Ingredients
 Fine Dry:
 1.  1/3 cup: all-purpose flour
 2.  2/3 cup: whole grain flour
-3.  1/2 tsp each of:
+3.  1/2 tsp. each of:
     1. baking powder
     2. baking soda
     3. salt
 4.  1/4 cup each of
     1. granulated sugar
     2. packed light-brown sugar
+5.  2 tsp. of ground cinnamon
 
 Wet:
 1.  1/2 cup unsweetened applesauce
